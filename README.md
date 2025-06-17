@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Durjaya Das!
 
-<!--
-**Dur-jaya/Dur-jaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at KIIT University  
+🚀 API Fellow at Keploy  
+💻 Passionate about Web Dev, Java, Open Source, and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+- **Languages**: Java, C, Python, JavaScript
+- **Web**: HTML, CSS
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+
+### 🔹 [Landing Page](https://github.com/Dur-jaya/Landing-Page)
+A simple landing page built using HTML and CSS.
+
+### 🔹 [Portfolio Website](https://github.com/Dur-jaya/Portfolio)
+My personal portfolio showcasing my skills and projects.
+
+### 🔹 [Temperature Converter](https://github.com/Dur-jaya/Temperature-converter)
+A converter that converts between Celsius and Fahrenheit.
+
+### 🔹 [LeetCode Solutions](https://github.com/Dur-jaya/LeetCode)
+Collection of Java solutions to LeetCode problems.
+
+### 🔹 [Bookstore API](https://github.com/Dur-jaya/BOOKSTORE-API)
+A basic REST API for book management built using JavaScript.
+
+---
+
+## 🌱 Currently Learning
+- Git & GitHub
+- Open Source Contributions
+- Java Backend Development
+
+---
+
+## 📫 Connect With Me
+📧 Email: durjayadas3@gmail.com 
+🌐 GitHub: [Dur-jaya](https://github.com/Dur-jaya)
