@@ -1,44 +1,54 @@
-# 👋 Hi, I'm Durjaya Das!
+<h1 align="center">Hi 👋, I'm Dur-jaya</h1>
 
-🎓 B.Tech CSE Student at KIIT University  
-🚀 API Fellow at Keploy  
-💻 Passionate about Web Dev, Java, Open Source, and Problem Solving  
-
----
-
-## 💼 Skills
-- **Languages**: Java, C, Python, JavaScript
-- **Web**: HTML, CSS
-- **Tools**: Git, GitHub, VS Code
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Curious+Coder+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;B.Tech+Student+at+KIIT+%F0%9F%8F%9D%EF%B8%8F;Learning+MERN+Stack+%F0%9F%A7%A0;GitHub+Profile+README+%F0%9F%91%89" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🧰 Tech I'm Learning
 
-### 🔹 [Landing Page](https://github.com/Dur-jaya/Landing-Page)
-A simple landing page built using HTML and CSS.
-
-### 🔹 [Portfolio Website](https://github.com/Dur-jaya/Portfolio)
-My personal portfolio showcasing my skills and projects.
-
-### 🔹 [Temperature Converter](https://github.com/Dur-jaya/Temperature-converter)
-A converter that converts between Celsius and Fahrenheit.
-
-### 🔹 [LeetCode Solutions](https://github.com/Dur-jaya/LeetCode)
-Collection of Java solutions to LeetCode problems.
-
-### 🔹 [Bookstore API](https://github.com/Dur-jaya/BOOKSTORE-API)
-A basic REST API for book management built using JavaScript.
-
----
-
-## 🌱 Currently Learning
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- API Testing with Keploy
+- Backend Development
 - Git & GitHub
-- Open Source Contributions
-- Java Backend Development
 
 ---
 
-## 📫 Connect With Me
-📧 Email: durjayadas3@gmail.com 
-🌐 GitHub: [Dur-jaya](https://github.com/Dur-jaya)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dur-jaya&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Dur-jaya&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dur-jaya?theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dur-jaya&theme=github-compact" />
+</p>
+
+---
+
+## 🐍 Snake Eating Contributions (animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dur-jaya/Dur-jaya/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dur-jaya/)
+- 🐙 [GitHub](https://github.com/Dur-jaya)
