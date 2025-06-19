@@ -40,11 +40,6 @@
 
 ---
 
-## 🐍 Snake Eating Contributions (animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dur-jaya/Dur-jaya/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
